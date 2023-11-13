@@ -188,6 +188,8 @@ Types of duplication:
 * **Impatient duplication** Developers get lazy and duplicate because it seems easier.
 * **Interdeveloper duplication** Multiple people on a team (or on different teams) duplicate a piece of information.
 
+| Not All Code Duplication is Knowledge Duplication... Code can be the same but the knowledge they represent is different (Just a coincidence, not a duplication)
+
 **Tip 12: Make it easy to reuse**
 
 ## 8.-Orthogonality
@@ -1029,7 +1031,7 @@ The earlier a bug is found, the cheaper it is to remedy. "Code a little, test a 
 * Test data: there are only two kinds of data: real-world data and synthetic data.
 * Exercising GUI systems: requires specialized testing tools, based on a simple event capture/playback model.
 * Testing the tests: After you have written a test to detect a particular bug, cause the bug deliberately and make sure the test complains.
-	
+
 **Tip 64: Use Saboteurs to Test Your Testing**
 * Testing thoroughly:
 
@@ -1340,7 +1342,7 @@ Tired of C, C++, and Java? Try the following languages. Each of these languages 
 - How much **d**etail do they want?
 - Whom do you want to **o**wn the information?
 - How can you **m**otivate them to listen to you?
- 
+
 ### How to Maintain Orthogonality
 - Design independent, well-defined components.
 - Keep your code decoupled.
