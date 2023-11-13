@@ -188,7 +188,7 @@ Types of duplication:
 * **Impatient duplication** Developers get lazy and duplicate because it seems easier.
 * **Interdeveloper duplication** Multiple people on a team (or on different teams) duplicate a piece of information.
 
-| Not All Code Duplication is Knowledge Duplication... Code can be the same but the knowledge they represent is different (Just a coincidence, not a duplication)
+> Not All Code Duplication is Knowledge Duplication... Code can be the same but the knowledge they represent is different (Just a coincidence, not a duplication)
 
 **Tip 12: Make it easy to reuse**
 
